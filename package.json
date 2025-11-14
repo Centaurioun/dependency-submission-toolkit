@@ -36,8 +36,8 @@
   "dependencies": {
     "@actions/core": "^1.10.0",
     "@actions/exec": "^1.1.1",
-    "@actions/github": "^5.0.0",
-    "@octokit/rest": "^18.12.0",
+    "@actions/github": "^6.0.1",
+    "@octokit/rest": "^22.0.1",
     "openapi-typescript": "^5.2.0",
     "packageurl-js": "0.0.6"
   },
